@@ -5,6 +5,8 @@
 Using the Kickstarter dataset, campaign outcomes were visualized to provide accurate information to Louise about how differect campaigns fared in relation to launch dates and funding goals. 
 
 ## Analysis and Challenge
+![Theater outcomes by launch date](https://user-images.githubusercontent.com/95098281/147399850-82dc5626-cd70-4d0d-bc40-ab33360db13b.png)
+![outcomes based on goals](https://user-images.githubusercontent.com/95098281/147399809-10b998c0-f85b-479d-ab0b-1a1aee0eb727.png)
 
 ### Challenges and Difficulties Encountered
 Some challenges encountered were formating the pivot charts especially assigning colors to data points. It was very helpful to have an idea of what the final deliverable should look like, but it was more challenging than expected to come up with the similar structure and formatting. The challenge with formatting the pivot tables was overcome by trying different options under formatting and experiemnting with those options. 
